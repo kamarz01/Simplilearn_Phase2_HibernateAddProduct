@@ -2,7 +2,9 @@
 
 ## Intro
 
-Practise project to Add a New Product in the Database using Hibernate
+Practise project to Add a New Product in the Database using Hibernate.
+
+The project was part of Simplilearn **Full Stack Java Developer Master Program** Phase (2).
 
 ## Technologies
 - Java EE
